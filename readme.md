@@ -44,7 +44,7 @@ To run this project, follow these steps:
 
    ```bash
    git clone https://github.com/your-repo/Flipkart-Sales-Data-Analysis.git
-   cd flipkart-sales-dashboard
+   cd Flipkart-Sales-Data-Analysis
    ```
 
 2. Install the required Python libraries:
