@@ -1,4 +1,4 @@
-# Flipkart Sales Performance Dashboard (Sample Data)
+# Sales Performance Dashboard (Sample Data)
 
 ## Project Overview
 
